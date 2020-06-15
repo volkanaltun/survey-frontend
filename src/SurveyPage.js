@@ -74,5 +74,3 @@ class SurveyPage extends React.Component{
     }
 }
 export default SurveyPage;
-//company name dropdown at
-//dropdown button ekle
